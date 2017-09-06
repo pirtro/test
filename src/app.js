@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 			</li>`;
 		});
 
-		foodItemInput.value = "";
+		foodItemInput.value = "OOPS";
 		foodAmountInput.value = "";
 	};
 
